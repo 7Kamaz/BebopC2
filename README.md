@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.3-amber?style=for-the-badge&labelColor=black" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0-origin-amber?style=for-the-badge&labelColor=black" alt="Version">
   <img src="https://img.shields.io/badge/Win32-blue?style=for-the-badge&logo=c&labelColor=black" alt="Win32">
   <img src="https://img.shields.io/badge/Golang-Teamserver-00ADD8?style=for-the-badge&logo=go&labelColor=black" alt="Go">
   <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge&labelColor=black" alt="License">
