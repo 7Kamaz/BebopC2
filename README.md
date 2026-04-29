@@ -13,6 +13,8 @@
 
 Asynchronous C2 framework for red team operations. Go teamserver, C beacon for Windows, browser-based operator console.
 
+II will use this C2 to learn the ideal workings and refine it for my ideal version. Gaining understanding of C, Go, and Windows.
+
 <p align="center">
   <img src="operator-client/static/img/graph_sessions.png" alt="Session graph view" width="900">
 </p>
